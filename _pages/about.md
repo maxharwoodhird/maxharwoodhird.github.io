@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student researching Markov Chain Monte Carlo under the supervision of Sam Livingstone at University College London. I also like music.
+I am a PhD student researching Markov Chain Monte Carlo at University College London. I also like music.
 
 
